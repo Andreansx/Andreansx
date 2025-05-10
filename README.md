@@ -9,7 +9,7 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Andrtexh)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreansx&langs_count=6&theme=dark&layout=compact&border_color=2b59ff&title_color=2b59ff&exclude_repo=socketpeek,pirate-cipher,colorful-ascii-art-generator,my-simple-notes,music-visualizer,single-file-tictactoe,nwwd,kalkulator-costam,wypelnianie-tablicy,zgadywanko-liczb,Ka1kulat0r,triCalc,zliczanie-znakow,Przelicznik-stopni&hide=html,typescript,css&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreansx&langs_count=6&theme=transparent&layout=compact&hide_border=true&title_color=2b59ff&exclude_repo=socketpeek,pirate-cipher,colorful-ascii-art-generator,my-simple-notes,music-visualizer,single-file-tictactoe,nwwd,kalkulator-costam,wypelnianie-tablicy,zgadywanko-liczb,Ka1kulat0r,triCalc,zliczanie-znakow,Przelicznik-stopni&hide=html,typescript,css&hide_progress=true)
 </div>
 
 - **[Staszic360](https://github.com/Andreansx/Staszic360)** – A virtual tour of my high school, created to develop practical skills in 360° imaging and interactive web environments.
