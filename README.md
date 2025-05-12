@@ -1,7 +1,10 @@
 <div align="center">
 <img src="./logo.png" width="70%">
 <h1>Hey there</h1>
-
+<h4>
+I am a high school student specializing in Mathematics, IT, and English. Currently in my second year, I'm passionate about networking. I'm developing my skills through a combination of theoretical study (primarily courses on YouTube) and practical experimentation in my home lab environment.
+</h4>
+  
 # Readme under construction for now
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
