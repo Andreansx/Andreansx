@@ -11,6 +11,12 @@ I am a high school student specializing in Mathematics, IT, and English. Current
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Andrtexh)
+<div align="center">
+  <h2>Education Path</h2>
+
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+<h4>I'm expanding my knowledge in network engineering, cloud infrastructure, and server administration, working toward a career as a network and cloud systems administrator in a data center environment or telecommunications service provider.</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreansx&langs_count=6&theme=transparent&layout=compact&hide_border=true&title_color=2b59ff&exclude_repo=socketpeek,pirate-cipher,colorful-ascii-art-generator,my-simple-notes,music-visualizer,single-file-tictactoe,nwwd,kalkulator-costam,wypelnianie-tablicy,zgadywanko-liczb,Ka1kulat0r,triCalc,zliczanie-znakow,Przelicznik-stopni&hide=html,typescript,css&hide_progress=true)
 </div>
