@@ -18,11 +18,18 @@ I am a high school student specializing in Mathematics, IT, and English. Current
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 <h4>I'm expanding my knowledge in network engineering, cloud infrastructure, and server administration, working toward a career as a network and cloud systems administrator in a data center environment or telecommunications service provider.</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreansx&langs_count=6&theme=transparent&layout=compact&hide_border=true&title_color=2b59ff&exclude_repo=socketpeek,pirate-cipher,colorful-ascii-art-generator,my-simple-notes,music-visualizer,single-file-tictactoe,nwwd,kalkulator-costam,wypelnianie-tablicy,zgadywanko-liczb,Ka1kulat0r,triCalc,zliczanie-znakow,Przelicznik-stopni&hide=html,typescript,css&hide_progress=true)
+<div align="center">
+<h2>Connect</h2>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=Staszic360&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.5&border_color=F10F5B)](https://github.com/andreansx/Staszic360)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=sql&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.5&border_color=F10F5B)](https://github.com/andreansx/sql)
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=netmiko-experimenting&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.5&border_color=F10F5B)](https://github.com/andreansx/netmiko-experimenting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=PaperMC-on-DO&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.5&border_color=F10F5B)](https://github.com/andreansx/PaperMC-on-DO)
+
+
+
 </div>
-
-- **[Staszic360](https://github.com/Andreansx/Staszic360)** – A virtual tour of my high school, created to develop practical skills in 360° imaging and interactive web environments.
-- **[PaperMC-on-DO](https://github.com/Andreansx/PaperMC-on-DO)** - Documentation of PaperMC server hosted on **DigitalOcean**, managed by me, created for my brother.
-- **[GMK67-Config](https://github.com/Andreansx/GMK67-Config)** - Color schemes for my custom build keyboard based on the GMK67 ZUOYA PCB
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreansx&theme=merko&hide_border=true)
