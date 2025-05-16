@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./logo.png" width="60%">
+<img src="./logo.png" width="70%">
 
 <h1>Hey there</h1>
 <h4>
@@ -34,6 +34,6 @@ I am a high school student specializing in Mathematics, IT, and English. Current
 
 <h2>Connect</h2>
 
-[![Telegram](https://img.shields.io/badge/-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
+[![Telegram](https://img.shields.io/badge/telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
 
 </div>
