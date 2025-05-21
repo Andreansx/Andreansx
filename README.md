@@ -26,6 +26,8 @@ I am a high school student specializing in Mathematics, IT, and English. Current
 
 <h2>Connect</h2>
 
+**_I'm always happy to connect with fellow networking and Linux enthusiasts !_**  
+</br>
 [![Telegram](https://img.shields.io/badge/telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
 
 </div>
