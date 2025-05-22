@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hey there</h1>
 <h4>
-I am a high school student specializing in Mathematics, IT, and English. Currently in my second year, I'm very passionate about networking and Linux. I'm developing my skills through a combination of theoretical study (primarily courses on YouTube) and practical experimentation in my home lab environment.
+I am a high school student specializing in Mathematics, IT, and English. Currently in my second year, I'm obsessed with Linux and networking. I'm developing my skills through a combination of theoretical study (primarily courses on YouTube) and practical experimentation in my home lab environment.
 </h4>
 <h2>Tech Stack and Field of Learning</h2>
 
