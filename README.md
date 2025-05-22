@@ -6,10 +6,10 @@ I am a high school student specializing in Mathematics, IT, and English. Current
 <h2>Tech Stack and Field of Learning</h2>
 
 ![MikroTik](https://img.shields.io/badge/routeros-5B18EB?style=for-the-badge&logo=Mikrotik&logoSize=auto)
-![networking](https://img.shields.io/badge/cloud-8116C7?style=for-the-badge&logo=googlecloud&logoColor=white&logoSize=auto)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-A614A3.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![bash](https://img.shields.io/badge/bash-8116C7?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
+![nginx](https://img.shields.io/badge/nginx-A614A3.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-CC117F?style=for-the-badge&logo=python&logoColor=white)
-![debian](https://img.shields.io/badge/Debian-F10F5B?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto)
+![debian](https://img.shields.io/badge/debian-F10F5B?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto)
 
 ![SQLite](https://img.shields.io/badge/SQLite-5B18EB?style=for-the-badge&logo=sqlite)
 ![cloudflare](https://img.shields.io/badge/cloudflare-8D15BB?style=for-the-badge&logo=cloudflare&logoColor=white)
