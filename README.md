@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hey there</h1>
 <h4>
-I am a second-year high school student in a class with a Mathematics, IT, and English profile. I'm obsessed with Linux and networking, developing my skills through a combination of theoretical study (primarily courses on YouTube) and practical experimentation in my home lab environment.
+I am a second-year high school student in a class with a Mathematics, IT, and English profile.</br> I'm obsessed with Linux and networking, developing my skills through a combination of theoretical study (primarily courses on YouTube) and practical experimentation in my home lab environment.
 </h4>
 <h2>Tech Stack and Field of Learning</h2>
 
@@ -14,7 +14,7 @@ I am a second-year high school student in a class with a Mathematics, IT, and En
 ![SQLite](https://img.shields.io/badge/SQLite-5B18EB?style=for-the-badge&logo=sqlite)
 ![cloudflare](https://img.shields.io/badge/cloudflare-8D15BB?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![proxmox](https://img.shields.io/badge/proxmox-BF128B?style=for-the-badge&logo=proxmox&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform-F10F5B?style=for-the-badge&logo=terraform&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-F10F5B?style=for-the-badge&logo=applemusic&logoColor=white)
   <h2>Education Path</h2>
 <h4>I'm expanding my knowledge in network engineering, cloud infrastructure, and server administration, working toward a career as a network and cloud systems administrator in a data center environment or telecommunications service provider.</h4>
 <h4>The Certifications I'm pursuing are CompTIA Network+, MikroTik MTCNA and then, the Cisco CCNA path.</h4>
@@ -29,5 +29,6 @@ I am a second-year high school student in a class with a Mathematics, IT, and En
 **_I'm always happy to connect with fellow networking and Linux enthusiasts !_**  
 </br>
 [![Telegram](https://img.shields.io/badge/telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-%23FA243C?style=for-the-badge&logo=applemusic&logoSize=auto)](https://music.apple.com/profile/andreansx)
 
 </div>
