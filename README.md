@@ -7,7 +7,7 @@ I am a second-year high school student in a class with a Mathematics, IT, and En
 
 ![MikroTik](https://img.shields.io/badge/routeros-5B18EB?style=for-the-badge&logo=Mikrotik&logoSize=auto)
 ![bash](https://img.shields.io/badge/bash-8116C7?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
-![nginx](https://img.shields.io/badge/nginx-A614A3.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![i3](https://img.shields.io/badge/i3-A614A3.svg?style=for-the-badge&logo=i3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-CC117F?style=for-the-badge&logo=python&logoColor=white)
 ![debian](https://img.shields.io/badge/debian-F10F5B?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto)
 
