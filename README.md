@@ -14,7 +14,7 @@ I am a second-year high school student in a class with a Mathematics, IT, and En
 ![SQLite](https://img.shields.io/badge/SQLite-5B18EB?style=for-the-badge&logo=sqlite)
 ![cloudflare](https://img.shields.io/badge/cloudflare-8D15BB?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![proxmox](https://img.shields.io/badge/proxmox-BF128B?style=for-the-badge&logo=proxmox&logoColor=white)
-![terraform](https://img.shields.io/badge/terraform-F10F5B?style=for-the-badge&logo=applemusic&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-F10F5B?style=for-the-badge&logo=terraform&logoColor=white)
   <h2>Education Path</h2>
 <h4>I'm expanding my knowledge in network engineering, cloud infrastructure, and server administration, working toward a career as a network and cloud systems administrator in a data center environment or telecommunications service provider.</h4>
 <h4>The Certifications I'm pursuing are CompTIA Network+, MikroTik MTCNA and then, the Cisco CCNA path.</h4>
