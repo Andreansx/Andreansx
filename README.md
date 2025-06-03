@@ -23,6 +23,9 @@ My home networking lab is where I apply theoretical concepts, experiment with <s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4&border_color=F10F5A)](https://github.com/andreansx/networking-lab)
 
+<h4>Also, check out my dotfiles ! Maybe you will find somthing you like there</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=dotfiles&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4&border_color=F10F5A)](https://github.com/andreansx/dotfiles)
 <h2>Connect</h2>
 
 **_I'm always happy to connect with fellow networking and Linux enthusiasts !_**  
