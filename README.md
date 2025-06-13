@@ -8,7 +8,7 @@ I'm constantly developing my skills through theoretical study and hands-on exper
 <h2>What I Embrace</h2>
 
 ![MikroTik](https://img.shields.io/badge/routeros-5B18EB?style=for-the-badge&logo=Mikrotik&logoSize=auto)
-![bash](https://img.shields.io/badge/bash-8116C7?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
+![zsh](https://img.shields.io/badge/zsh-8116C7?style=for-the-badge&logo=zsh&logoColor=white&logoSize=auto)
 ![i3](https://img.shields.io/badge/i3-A614A3.svg?style=for-the-badge&logo=i3&logoColor=white)
 ![neovim](https://img.shields.io/badge/vim-CC117F?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto)
 ![arch](https://img.shields.io/badge/arch-F10F5B?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto)
