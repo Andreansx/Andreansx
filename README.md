@@ -21,7 +21,7 @@ My goal is a career as a network and cloud systems administrator in a data cente
 <h4>While certifications are valuable, I believe deeply in learning by doing and the <strong>ethos of sharing knowledge</strong>. 
 My home networking lab is where I apply theoretical concepts, experiment with <strong>open-source tools and platforms</strong>, and document my projects and findings here on GitHub for others to see and learn from.</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4&border_color=F10F5A)](https://github.com/andreansx/networking-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4&border_color=F20F5A)](https://github.com/andreansx/networking-lab)
 
 <h4>Also, check out my dotfiles ! Maybe you will find somthing you like there</h4>
 
