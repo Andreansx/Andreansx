@@ -27,14 +27,16 @@ I also virtualize stuff as much as I can. I do it using Proxmox VE running on a 
 Key Technologies I learn/use in it: 
 * MikroTik RouterOS
 * Proxmox Virtual Environment
-* **IPv6** <— Right now working on a tunnel from Hurricane Electric !
+* **IPv6** <— **Right now working on a tunnel from Hurricane Electric !**
 * Linux
 * ZFS
 * Server management
-* Terraform implementation  
+* Terraform implementation
+
 and general networking concepts like IPv4, VLANs, OSPF etc.  
   
 Click the Card below to browse through all my documentantion.  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&theme=gruvbox&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4)](https://github.com/andreansx/networking-lab)
 
 
