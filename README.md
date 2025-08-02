@@ -37,7 +37,7 @@ Key Technologies I learn/use in it:
   
 Click the Card below to browse through all my documentantion.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&theme=gruvbox&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4)](https://github.com/andreansx/networking-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
 
 
 ### Things I’m currently doing
@@ -50,7 +50,7 @@ Click the Card below to browse through all my documentantion.
 
 Here you can take a look into the aesthetic part of my lab. Maybe you will find something you will like here
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=dotfiles&theme=gruvbox&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&border_radius=7.4)](https://github.com/andreansx/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=dotfiles&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/dotfiles)
 
 ### Contact
 
