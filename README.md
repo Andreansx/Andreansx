@@ -18,15 +18,22 @@ I do everything in my [lab](https://github.com/Andreansx/Networking-lab) ( Check
 
 </div>
 
+### Things Im currently Learning
+
+* **VyOS**
+* **MikroTik RouterOS v7**
+* **OSPF dynamic routing protocol**
+
 
 ### My lab for learning
 
 My lab is built in a 36U datacenter-grade HPC rack.  
-The core of it is a MikroTik **CCR2004-1G-12S+2XS** router and a **CRS326-24S+2Q+RM** L2/L3 switch. Both are also perfect for experimenting with IPv6.  
+The core of it is a MikroTik **CCR2004-1G-12S+2XS** router and a **CRS326-24S+2Q+RM** switch with Hardware offloaded inter-VLAN routing. 
+Both are also perfect for experimenting with IPv6 in the future, when I finally get my hands on it. Now Im also getting more familiar with **VyOS**.  
 I also virtualize what I can using Proxmox VE, it reduces the costs of electrical power and new hardware.  
 
 Key Technologies I learn/use in it: 
-* **MikroTik RouterOS** ( VLANs, L2/L3 switching), it's what the core of my network runs on
+* **MikroTik RouterOS** - VLANs, inter-VLAN routing, dynamic routing protocols etc.
 * Proxmox Virtual Environment
 * **IPv6** <— **Right now working on a tunnel from Hurricane Electric !**
 * Windows Server Active Directory
@@ -38,13 +45,6 @@ Key Technologies I learn/use in it:
 Click the Card below to browse through all my documentantion.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
-
-
-### Things I’m currently doing
-
-* Learning **Active Directory** with Windows Server
-* Learning IPv6 concepts and trying to implement a IPv6 Tunnel from Hurricane Electric (See lab repo for more info)
-* Experimenting with Linux kernel networking
 
 ### Check out my dotfiles !
 
