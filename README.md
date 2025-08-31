@@ -1,12 +1,7 @@
 # Hi, I’m andreansx 
 
-Im 16 year old, I love networking, Linux, furries and guns.  
-
-The field that I am most interested in, and would love to work in, is data center network engineering and administration. Especially things like OSPF, BGP, IPv6, VyOS and kind of a more modern aspect, which is also Kubernetes and Terraform.   
-
-I most enjoy RouterOS v7, Dynamic routing etc.  
-
-I study datacenter-oriented networking, server management etc. but more specifically I talk about it in my lab so check out below if you are interested
+I'm a 16 year old self-taught Networking and infrastructure enthusiast and I have a really deep passion for the technologies that power the todays internet.
+My primary focus and career goal is Data Center Network Engineering.   
 
 ### Toolkit
 
