@@ -18,27 +18,19 @@ My primary focus and career goal is Data Center Network Engineering.
 
 I spend most of my time in my datacenter styled lab where I build and learn networking technologies.   
 
-Currently Im focused on two things.  
-First is learning my favourite technologies etc.
-*  BGP implementation in Dell EMC OS9
-*  VXLAN and EVPN in JunOS and OS9
-*  JunOS using vSRX3
-*  VyOS
-*  Virtualization
+Currently Im focused on two things.   
+
+First thing is practicaly learning my favourite technologies like **BGP EVPN**, **VXLANs** etc. and modern L3-Only networks.   
+I learn those technologies by implementing them on **Juniper JunOS on vSRX3** vRouter and on **Dell EMC OS9** on my **Dell EMC S4048-ON**.    
+I'm also currently implementing distributed routing using **vSRX3 routers in my PVE server** and connecting everything with **eBGP** Sessions   
 
 And the second thing is studying for the CCNA which I would like to take soon.  
-Even though I don't like Cisco's IOS, I want to pass CCNA since it's a great validation of my skills.   
+Even though I don't like Cisco's IOS, I want to pass CCNA since it's actually pretty universal and widely respected.
 
 
 Click the Card below to browse through all my documentantion.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
-
-### Check out my dotfiles !
-
-Here you can take a look into the aesthetic part of my lab. Maybe you will find something you will like here
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=dotfiles&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/dotfiles)
 
 ### Contact
 
