@@ -25,7 +25,7 @@ The first is learning about things like:
 * Broadcom StrataXGS ASICs architecture, about hardware-level reasons why some of those chips can while others cannot perform RIOT    
 * switching engines architecture inside switch chips   
 * TCAM memory    
-* and EVPN-VXLAN on JunOS using vQFX and on Dell EMC OS9 using my Dell EMC S4048-ON.    
+* and EVPN-VXLAN on JunOS using vQFX and vSRX3    
 
 I'm also planning out the implementation of L3 Clos architecture in my lab.   
 I don't have it already done but after I pass CCNA, this will be my main focus.    
