@@ -1,4 +1,4 @@
-# Hi, I’m andreansx 
+# Hi, I’m andreansx nie
 
 I'm a 16 year old self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
 
