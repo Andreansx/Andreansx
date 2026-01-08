@@ -1,6 +1,6 @@
 # Hi, I’m Andreansx
 
-I'm a 16 year old self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
+I'm a 16 year old CCNA-certified self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
 
 My primary focus and career goal is Data Center Network Engineering.   
 
@@ -19,20 +19,14 @@ My primary focus and career goal is Data Center Network Engineering.
 
 I spend most of my time in my Data center styled lab where I read a lot about the architecture of Network Operating Systems and switch chips.    
 
-Currently I'm focused on two things.   
+Currently I'm focused on learning about things like:   
 
-The first is learning about things like:   
 * Broadcom StrataXGS ASICs architecture, about hardware-level reasons why some of those chips can while others cannot perform RIOT    
 * switching engines architecture inside switch chips   
 * TCAM memory    
 * and EVPN-VXLAN on JunOS using vQFX and vSRX3    
 
 I'm also planning out the implementation of L3 Clos architecture in my lab.   
-I don't have it already done but after I pass CCNA, this will be my main focus.    
-
-The second thing is studying for the CCNA exam.   
-I am in fact not a fan of Cisco's IOS as I very much prefer Juniper's JunOS, but the CCNA is very widely respected so I am aiming to pass it in this year.
-
 
 Click the Card below to browse through all my documentantion.  
 
