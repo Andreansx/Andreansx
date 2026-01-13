@@ -1,5 +1,7 @@
 # Hi, I’m Andreansx
 
+![https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url](./ccna_sm.jpg)    
+
 I'm a 16 year old CCNA-certified self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
 
 My primary focus and career goal is Data Center Network Engineering.   
@@ -30,7 +32,7 @@ I'm also planning out the implementation of L3 Clos architecture in my lab.
 
 Click the Card below to browse through all my documentantion.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
 
 ### Contact
 
