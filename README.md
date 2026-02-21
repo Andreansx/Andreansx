@@ -1,4 +1,5 @@
-# Hi, I’m Andreansx
+# Hi, I’m Andreansx 
+![https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url](./ccna_sm.jpg)    
 
 I'm a 16 year old CCNA-certified self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
 
@@ -7,30 +8,29 @@ My primary focus and career goal is Data Center Network Engineering.
 ### Toolkit
 
 <div align=“center”>
-
+ 
 ![linux](https://img.shields.io/badge/linux-2B0948?style=for-the-badge&logo=linux&logoSize=auto&logoColor=white)
-![broadcom](https://img.shields.io/badge/StrataXGS-4C1B45?style=for-the-badge&logo=broadcom&logoColor=white&logoSize=auto)
-![proxmox](https://img.shields.io/badge/proxmox-6C2E43?style=for-the-badge&logo=proxmox&logoColor=white&logoSize=auto)
-![ansible](https://img.shields.io/badge/ansible-8D4040?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto)
-![OS9](https://img.shields.io/badge/Dell_EMC_OS9-AD533E?style=for-the-badge&logo=dell&logoColor=white&logoSize=auto)
-![vSRX3/vQFX](https://img.shields.io/badge/vSRX3%20_vQFX-CE653B?style=for-the-badge&logo=juniper-networks&logoColor=white&logoSize=auto)
+![proxmox](https://img.shields.io/badge/proxmox-3E1446?style=for-the-badge&logo=proxmox&logoColor=white&logoSize=auto)
+![broadcom](https://img.shields.io/badge/StrataXGS-511944?style=for-the-badge&logo=broadcom&logoColor=white&logoSize=auto)
+![jinja2](https://img.shields.io/badge/jinja2-641E42?style=for-the-badge&logo=jinja&logoColor=white&logoSize=auto)
+![ansible](https://img.shields.io/badge/ansible+netbox-772340?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto)
+![os10](https://img.shields.io/badge/OS10-9D2D3C?style=for-the-badge&logo=dell&logoColor=white&logoSize=auto)
+![junos](https://img.shields.io/badge/cRPD-B0323A?style=for-the-badge&logo=junipernetworks&logoColor=white&logoSize=auto)
 
 </div>
 
 I spend most of my time in my Data center styled lab where I read a lot about the architecture of Network Operating Systems and switch chips.    
 
-Currently I'm focused on learning about things like:   
+Currently my projects and learning interests include:
 
-* Broadcom StrataXGS ASICs architecture, about hardware-level reasons why some of those chips can while others cannot perform RIOT    
-* switching engines architecture inside switch chips   
-* TCAM memory    
-* and EVPN-VXLAN on JunOS using vQFX and vSRX3    
+*  Network automation and IBN with Ansible, Jinja2 templates and Netbox as a Single Source of Truth
+*  Spine-Leaf architecture which I have already implemented in my lab
+*  EVPN VXLAN which I'm also learning about
+*  Hardware architecture, packet processing inside switching engines, TCAM memory and hardware level restrictions for RIOT
 
-I'm also planning out the implementation of L3 Clos architecture in my lab.   
+Click the Card below to browse through all my documentantion. 
 
-Click the Card below to browse through all my documentantion.  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
 
 ### Contact
 
@@ -42,3 +42,4 @@ _Always open to chat with fellow networking and Linux enthusiasts!_
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-%23FA243C?style=for-the-badge&logo=applemusic&logoSize=auto)](https://music.apple.com/profile/andreansx)
 
 </div>
+
