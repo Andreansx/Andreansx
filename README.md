@@ -5,24 +5,28 @@ I'm a 16 year old CCNA-certified self-taught Networking enthusiast and I am very
 
 My primary focus and career goal is Data Center Network Engineering.   
 
+Networking is what I learn for real but I also do stuff with Claude Code
+
 ### Toolkit
 
 <div align=“center”>
  
-![linux](https://img.shields.io/badge/linux-2B0948?style=for-the-badge&logo=linux&logoSize=auto&logoColor=white)
-![proxmox](https://img.shields.io/badge/proxmox-3E1446?style=for-the-badge&logo=proxmox&logoColor=white&logoSize=auto)
-![broadcom](https://img.shields.io/badge/StrataXGS-511944?style=for-the-badge&logo=broadcom&logoColor=white&logoSize=auto)
-![jinja2](https://img.shields.io/badge/jinja2-641E42?style=for-the-badge&logo=jinja&logoColor=white&logoSize=auto)
-![ansible](https://img.shields.io/badge/ansible+netbox-772340?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto)
-![os10](https://img.shields.io/badge/OS10-9D2D3C?style=for-the-badge&logo=dell&logoColor=white&logoSize=auto)
-![junos](https://img.shields.io/badge/cRPD-B0323A?style=for-the-badge&logo=junipernetworks&logoColor=white&logoSize=auto)
+ 
+![Apple](https://img.shields.io/badge/M2_Max-000000?style=for-the-badge&logo=apple&logoSize=auto&logoColor=white)
+![proxmox](https://img.shields.io/badge/docker,CLab-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
+![broadcom](https://img.shields.io/badge/StrataXGS-E31837?style=for-the-badge&logo=broadcom&logoColor=white&logoSize=auto)
+![jinja2](https://img.shields.io/badge/jinja2,ansible,netbox-7E0C1B?style=for-the-badge&logo=ansible&logoColor=white&logoSize=auto)
+![ceos](https://img.shields.io/badge/cEOS-16325B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTI3IiBoZWlnaHQ9IjEwOTkiIHZpZXdCb3g9IjAgMCAxNTI3IDEwOTkiPjx0aXRsZT5BcmlzdGEtbmV0d29ya3MtbG9nby1zdmc8L3RpdGxlPjxwYXRoIGQ9Ik04NzQuMyA2MC44YzUyLjEgODQuOSA2NTIgMTAzMS40IDY1MiAxMDMxLjRoLTIxNS4yTDc2My40IDIxNy41IDUyOC43IDU5Ni4xaDQzMC40TDg0OC4yIDc3Mi40SDQxNy45bC0yMDIuMiAzMjYuNEguNlM2MDcgMTM5LjIgNjUyLjYgNjcuNGM1OC43LTg0LjkgMTYzLTkxLjQgMjIxLjctNi42IiBzdHlsZT0iZmlsbDojZmZmIi8+PC9zdmc+&logoColor=white&logoSize=auto)
+![junos](https://img.shields.io/badge/cRPD-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white&logoSize=auto)
+
 
 </div>
 
-I spend most of my time in my Data center styled lab where I read a lot about the architecture of Network Operating Systems and switch chips.    
+Recently I mostly switched from learning in my physical lab, to doing everything in my a lot more modern environment on my MacBook. I now run Arista cEOS using Containerlab in a ARM64 VM in OrbStack. This setup is unimaginably more efficient than an old Dell R710 and physcial hardware. 
 
 Currently my projects and learning interests include:
 
+*  Modern approach to networking with Arista cEOS, OrbStack and Juniper cRPD
 *  Network automation and IBN with Ansible, Jinja2 templates and Netbox as a Single Source of Truth
 *  Spine-Leaf architecture which I have already implemented in my lab
 *  EVPN VXLAN which I'm also learning about
@@ -36,8 +40,9 @@ Click the Card below to browse through all my documentantion.
 
 <div align=“center”>
 
-_Always open to chat with fellow networking and Linux enthusiasts!_  
+_Always open to chat with fellow networking, Linux and Apple enthusiasts!_  
 </br>
+[![Signal](https://img.shields.io/badge/signal-3B45FD?style=for-the-badge&logo=signal&logoColor=ffffff&logoSize=auto)](https://signal.me/#eu/0ld29h9x9wk_GZgDofNOidDA-QP2Wy9b6CQCriJDe3v6pP_XbpxEgpxBYtEuBS2b)
 [![Telegram](https://img.shields.io/badge/telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-%23FA243C?style=for-the-badge&logo=applemusic&logoSize=auto)](https://music.apple.com/profile/andreansx)
 
