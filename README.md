@@ -34,7 +34,11 @@ Currently my projects and learning interests include:
 
 Click the Card below to browse through all my documentantion. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)  
+
+This is coded with opus but it's cool
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=TNC640unix&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/TNC640unix)
 
 ### Contact
 
