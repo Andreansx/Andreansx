@@ -1,11 +1,11 @@
 # Hi, I’m Andreansx 
 ![https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url](./ccna_sm.jpg)    
 
-I'm a 16 year old CCNA-certified self-taught Networking enthusiast and I am very interested in the underlying hardware that makes the Data center technologies possible. 
+I'm a 17 year old CCNA-certified self-taught Datacenter Networking and reverse engineering enthusiast and I have a deep interest in the underlying hardware that makes today's datacenter backbones possible. 
 
 My primary focus and career goal is Data Center Network Engineering.   
 
-Networking is what I learn for real but I also do stuff with Claude Code
+Networking is what I learn for real, but I also mess around with IDA and Claude Code for reverse engineering of software and research.   
 
 ### Toolkit
 
@@ -32,17 +32,24 @@ Currently my projects and learning interests include:
 *  EVPN VXLAN which I'm also learning about
 *  Hardware architecture, packet processing inside switching engines, TCAM memory and hardware level restrictions for RIOT
 
-Click the Card below to browse through all my documentantion. 
+Click the card below to browse all my documentation.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)  
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Andreansx&repo=networking-lab&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/networking-lab)  
 
-This is coded with opus but it's cool
+### Reverse engineering & systems so like side projects with Claude
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andreansx&repo=TNC640unix&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/TNC640unix)
+Running an i386 Heidenhain TNC640 Vbox appliance under FEXemu on Apple Silicon, cause emulating a Win11 PC on ARM64 is too power-hungry:
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Andreansx&repo=TNC640unix&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653B&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/TNC640unix)    
+
+ARM64 Apple Silicon & Metal port of the game Casualties: Unknown (up to 7.0 demo)
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Andreansx&repo=casualties-unknown-apple-silicon&bg_color=191921&hide_border=true&text_color=8D4040&title_color=CE653C&icon_color=AD533E&border_radius=10)](https://github.com/andreansx/casualties-unknown-apple-silicon)    
+
 
 ### Contact
 
-<div align=“center”>
+<div align="center">
 
 _Always open to chat with fellow networking, Linux and Apple enthusiasts!_  
 </br>
