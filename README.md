@@ -27,8 +27,8 @@ I now run Arista cEOSes and Alpine Linux with BIRD using Containerlab in a ARM64
 
 Currently my projects and learning interests include:
 
-*   Bringing up my own AS which is a RIPE-provided PI IPv6 /48 anycasted from two PoPs (Vultr and OCI VPS through BGPTunnel) with full iBGP mesh through wireguard tunnels.   
-*   BIRD routing and architecture, I'm learning to write filters and also setting up BGP sessions between contenerized routers. You can take a look [here](https://github.com/Andreansx/Networking-lab/tree/main/projects/27-ibgp-bird-cEOS-wireguard), this is a demo or a PoC for my AS setup.
+*   Bringing up my own AS which is a RIPE-provided PA IPv6 /48 anycasted from two PoPs (iFog and Servperso) with full iBGP mesh between PoPs and CCR2004 through wireguard tunnels.   
+*   BIRD routing and architecture, I'm learning to write filters and also setting up BGP sessions between contenerized routers. You can take a look [here](https://github.com/Andreansx/Networking-lab/tree/main/projects/27-ibgp-bird-cEOS-wireguard), this is a demo or a PoC for my AS setup. Or [this](https://github.com/Andreansx/Networking-lab/tree/main/projects/28-bird-filters-upstream-sim), which is just a showcase of filters and functions in BIRD in Clab. 
 *   Routing security, RPKI ROAs, IRR route6 objects, filtering AS_PATH and prefix and MANRS-aligned policy
 *   Labbing with Linux, cEOS and cRPD containers in Containerlab.   
 *   Network automation with Jinja2 and Ansible and a bit with Nornir   
