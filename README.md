@@ -1,13 +1,13 @@
 # Hi, I’m Andreansx 
-![https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url](./ccna_sm.jpg)    
+[![credly](./ccna_sm.jpg)](https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url)    
 
-I'm a 17 year old CCNA-certified self-taught focused on internet routing and edge infrastructure, Anycast BGP and Linux-based routing with BIRD. 
-My primary focus and career goal is Data Center Network Engineering.   
+I'm a 17 year old CCNA-certified self-taught networking enthusiast focused on internet routing and edge infrastructure, Anycast BGP and Linux-based routing with BIRD. 
+My primary focus and career goal is Service Provider Network Engineering.   
 
 Networking is what I learn for real, but I also mess around with IDA and Claude Code for reverse engineering of software and research.   
 
-As of now I'm in the process of setting up my own Autonomous System with a PI IPv6 /48 which will be originated from two Points of Presence (Vultr and iFog) with eBGP to upstreams and iBGP down through Wireguard tunnels to my MikroTik CCR2004.   
-And also there will be my own Looking Glass (`bird-lg-go`), served on two PoPs, so it will take advantage of anycast BGP. I would also want to set up my own nameservers on those PoPs.    
+As of now I'm in the process of setting up my own Autonomous System with a PA IPv6 /48 which will be originated from two Points of Presence (iFog and Servperso) with eBGP to upstreams and iBGP down through Wireguard tunnels to my MikroTik CCR2004.   
+And also there will be my own Looking Glass (`bird-lg-go`), served on two PoPs, so it will take advantage of anycast BGP. I would also want to set up my own authoritative NS on those PoPs.    
 ### Toolkit
 
 <div align=“center”>
