@@ -1,12 +1,12 @@
 # Hi, I’m Andreansx 
 [![credly](./ccna_sm.jpg)](https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url)    
 
-I'm a 17 year old CCNA-certified self-taught networking enthusiast focused on internet routing and edge infrastructure, Anycast BGP and Linux-based routing with BIRD. 
+I'm a 17 year old CCNA-certified self-taught networking enthusiast running my own Autonomous System, AS218716, and I am focused on internet routing and edge infrastructure, Anycast BGP and Linux-based routing with BIRD. 
 My primary focus and career goal is Service Provider Network Engineering.   
 
 Networking is what I learn for real, but I also mess around with IDA and Claude Code for reverse engineering of software and research.   
 
-As of now I'm in the process of setting up my own Autonomous System with a PA IPv6 /48 which will be originated from two Points of Presence (iFog and Servperso) with eBGP to upstreams and iBGP down through Wireguard tunnels to my MikroTik CCR2004.   
+As of now I'm in the process of working my own Autonomous System with a PA IPv6 /48 which will be originated from two Points of Presence (iFog and Servperso) with eBGP to upstreams and iBGP down through Wireguard tunnels to my MikroTik CCR2004.   
 And also there will be my own Looking Glass (`bird-lg-go`), served on two PoPs, so it will take advantage of anycast BGP. I would also want to set up my own authoritative NS on those PoPs.    
 ### Toolkit
 
@@ -27,7 +27,7 @@ I now run Arista cEOSes and Alpine Linux with BIRD using Containerlab in a ARM64
 
 Currently my projects and learning interests include:
 
-*   Bringing up my own AS which is a RIPE-provided PA IPv6 /48 anycasted from two PoPs (iFog and Servperso) with full iBGP mesh between PoPs and CCR2004 through wireguard tunnels.   
+*   Building projects in my own Autonomous System with PA IPv6 /48 anycasted from two PoPs (iFog and Servperso) with full iBGP mesh between PoPs and CCR2004 through wireguard tunnels.   
 *   BIRD routing and architecture, I'm learning to write filters and also setting up BGP sessions between contenerized routers. You can take a look [here](https://github.com/Andreansx/Networking-lab/tree/main/projects/27-ibgp-bird-cEOS-wireguard), this is a demo or a PoC for my AS setup. Or [this](https://github.com/Andreansx/Networking-lab/tree/main/projects/28-bird-filters-upstream-sim), which is just a showcase of filters and functions in BIRD in Clab. 
 *   Routing security, RPKI ROAs, IRR route6 objects, filtering AS_PATH and prefix and MANRS-aligned policy
 *   Labbing with Linux, cEOS and cRPD containers in Containerlab.   
