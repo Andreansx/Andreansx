@@ -1,9 +1,7 @@
 # Hi, I’m Andreansx 
 [![credly](./ccna_sm.jpg)](https://www.credly.com/badges/3ec4eb66-f917-4889-a253-4104da6ea654/public_url)    
 
-**Check out my IPv6-only anycasted [website](https://andreansx.net)!**   
-
-![website](./website.png)    
+**Check out my IPv6 anycast [website](https://andreansx.net)!**   
 
 I'm a 17 year old CCNA-certified self-taught networking enthusiast running my own Autonomous System, AS218716, and I am focused on internet routing and edge infrastructure, Anycast BGP and Linux-based routing with BIRD. 
 My primary focus and career goal is Service Provider Network Engineering.   
